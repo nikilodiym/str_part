@@ -104,7 +104,7 @@ int main() {
     cout << "Number of sentences: " << sentence_count << endl;
     cout << "Number of dots: " << dots << endl;
     cout << "Number of commas: " << commas << endl;
-    cout << "Reversed text: " << reversed_text << endl;
+    cout << "Reversed text: " << reversed_text << endl;d
     cout << "Reversed each sentence: " << reversed_sentences << endl;
 
 	return 0;
